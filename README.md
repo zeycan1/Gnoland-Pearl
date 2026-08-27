@@ -258,7 +258,7 @@ gnokey query vm/qrender -data "gno.land/r/gnops/valopers:operatör adresi" -remo
 ## 9️⃣ Discord duyurusu
 
 ```
-Registered on Pearl ✅ — ZeycaNode
+Registered on Pearl ✅ 
 https://pearl.testnets.gno.land/r/gnops/valopers:operatöradresin
 Txhash: TX_HASH
 
